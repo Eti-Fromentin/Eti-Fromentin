@@ -23,9 +23,9 @@ You can contact me here:
 ---
 <h3 align="center">Github Stats</h3>
 
- [![Etienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eti-Fromentin&show_icons=true&theme=tokyonight)](https://github.com/Et--Fromentin/github-readme-stats)
+ [![Etienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eti-Fromentin&show_icons=true&theme=dracula)](https://github.com/Et--Fromentin/github-readme-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eti-Fromentin&layout=compact&theme=tokyonight)](https://github.com/Eti-Fromentin/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eti-Fromentin&layout=compact&theme=dracula)](https://github.com/Eti-Fromentin/github-readme-stats)
  
  [![Etienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EtiFRomentin)](https://github.com/Eti-Fromentin/github-readme-stats)
  
