@@ -15,7 +15,7 @@ I am a student at the <a href=https://www.wildcodeschool.com>WildCodeSchool</a> 
 <a href=https://flutter.dev/><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a> <a href=https://reactnative.dev/><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 
 ---
-You can contact me here: 
+<h3 align="center">Contact me:</h3>
 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/eti-fromentin//" target="_blank"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:fromentin.etienne@gmail.com@gmail.com" target="_blank"><img alt="G-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
