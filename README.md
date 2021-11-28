@@ -20,7 +20,7 @@ I am a student at the <a href=https://www.wildcodeschool.com>WildCodeSchool</a> 
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eti-Fromentin&layout=compact&theme=tokyonight)](https://github.com/Eti-Fromentin/github-readme-stats)
  
- [![Etienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eti-FRomentin)](https://github.com/Eti-Fromentin/github-readme-stats)
+ [![Etienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EtiFRomentin)](https://github.com/EtiFromentin/github-readme-stats)
 
  
 
