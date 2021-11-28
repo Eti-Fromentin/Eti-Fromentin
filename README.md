@@ -16,9 +16,12 @@ I am a student at the <a href=https://www.wildcodeschool.com>WildCodeSchool</a> 
 
 ---
 <h3 align="center">Github Stats</h3>
-[![Etienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eti-Fromentin&show_icons=true&theme=tokyonight)](https://github.com/Et--Fromentin/github-readme-stats)
+
+ [![Etienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eti-Fromentin&show_icons=true&theme=tokyonight)](https://github.com/Et--Fromentin/github-readme-stats)
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eti-Fromentin&layout=compact&theme=tokyonight)](https://github.com/Eti-Fromentin/github-readme-stats)
+ 
+ [![wakatime](https://wakatime.com/badge/user/d9c74740-0932-4626-a5af-2fa67241db03.svg)](https://wakatime.com/@d9c74740-0932-4626-a5af-2fa67241db03)
  
  [![Etienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EtiFRomentin)](https://github.com/EtiFromentin/github-readme-stats)
 
