@@ -2,7 +2,7 @@
 
 <div><h1 align="center">I am a student at the <a href=https://www.wildcodeschool.com>WildCodeSchool</a> in Paris, France. </h1>
 <p align="center">(previously director/manager of multiple japanese restaurants in Paris)</p>
-<h2 align="center" ><a  href=https://home.site.etifrom.dev/>My Portfolio</a></h2></div>
+<h2 align="center" ><a  href=https://home.site.etifrom.dev/>My Portfolio</a></h2> <h6 align='center'>(still Work in Progress)<h6></div>
 
 ---
 <h3 align="center">Currently learning:</h3>
