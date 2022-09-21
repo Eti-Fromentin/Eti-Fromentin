@@ -29,6 +29,8 @@
  
  [![Etienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EtiFRomentin)](https://github.com/Eti-Fromentin/github-readme-stats)
  
+ [![wakatime](https://wakatime.com/share/@EtiFromentin/89d015ba-8c42-4afb-a920-63127d746bcb.svg)]()
+ 
  [![wakatime](https://wakatime.com/badge/user/d9c74740-0932-4626-a5af-2fa67241db03.svg)](https://wakatime.com/@d9c74740-0932-4626-a5af-2fa67241db03)
 </div>
  
