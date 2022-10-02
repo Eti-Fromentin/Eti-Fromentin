@@ -20,19 +20,7 @@
 <a href="mailto:fromentin.etienne@gmail.com" target="_blank"><img alt="G-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
 
 ---
-<h3 align="center">Github Stats</h3>
-<div align='center'>
- 
- [![Etienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eti-Fromentin&show_icons=true&theme=dracula)](https://github.com/Et--Fromentin/github-readme-stats)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eti-Fromentin&layout=compact&theme=dracula)](https://github.com/Eti-Fromentin/github-readme-stats)
- 
- [![Etienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EtiFRomentin)](https://github.com/Eti-Fromentin/github-readme-stats)
- 
- [![wakatime](https://wakatime.com/share/@EtiFromentin/89d015ba-8c42-4afb-a920-63127d746bcb.svg)]()
- 
- [![wakatime](https://wakatime.com/badge/user/d9c74740-0932-4626-a5af-2fa67241db03.svg)](https://wakatime.com/@d9c74740-0932-4626-a5af-2fa67241db03)
-</div>
+
  
 
 <!--
